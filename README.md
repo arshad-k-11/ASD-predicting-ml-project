@@ -8,7 +8,7 @@ Install libraries-
 
 #pip install pandas
 
-#pip install sklearn
+#pip install sklearn #check
 
 pandas==1.1.4
 
